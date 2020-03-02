@@ -128,7 +128,19 @@ from django.core.wsgi import get_wsgi_application
 application = get_wsgi_application()
 
 ```
+# Till now DjangoAPI part is Over 
 
+# Now In Android part
+
+***If you want to use APP***
+
+- Go to APP folder take 2 files to your Android mobile and Give the privilege to developer in your mobile settings and install the app .
+- Go to singup option and enter username , password , and mobile number as randomly and click on signup button .
+- It will take you to next page 
+- In next page click on last Button it will make the connection gives the name of user 
+
+## Till now working flow is there 
+ ` App part is under processing It is under processing `
 
 
 

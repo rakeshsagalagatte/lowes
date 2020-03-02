@@ -33,7 +33,7 @@ pip freeze
 
 ## Screenshot 
 
-![start] (https://github.com/rakeshsagalagatte/lowes/blob/master/pipfreeze.png)
+![alt text] ( https://raw.githubusercontent.com/rakeshsagalagatte/lowes/blob/master/pipfreeze.png )
 
 
 

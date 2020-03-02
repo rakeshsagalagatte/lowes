@@ -139,6 +139,10 @@ application = get_wsgi_application()
 - It will take you to next page 
 - In next page click on last Button it will make the connection gives the name of user 
 
+***Else If you want to see the code go to Lowes folder***
+
+
+
 ## Till now working flow is there 
  ` App part is under processing It is under processing `
 

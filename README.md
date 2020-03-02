@@ -33,8 +33,9 @@ pip freeze
 
 ## Screenshot 
 
-![alt text] ( https://raw.githubusercontent.com/rakeshsagalagatte/lowes/blob/master/pipfreeze.png )
-
+##![some] ( https://raw.githubusercontent.com/rakeshsagalagatte/lowes/blob/master/pipfreeze.png )
+  
+! [some_new] (pipfreeze.png)
 
 
 

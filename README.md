@@ -1,6 +1,8 @@
 # Lowes 
 
-## 
+# I Hosted in https://www.pythonanywhere.com/ web services 
+
+## Try to clone in home directroy of server
 ``` js
 git clone https://www.github.com/rakeshsagalagatte/lowes.git
 ```

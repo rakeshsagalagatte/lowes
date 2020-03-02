@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/i1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/azur"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Next"
+    tools:showIn="@layout/activity_next">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"
+        android:text="Select your choice"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:text="Add items"
+        android:background="@drawable/buttonstyle"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:id="@+id/signup"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:text="Locate Shop"
+        android:background="@drawable/buttonstyle"
+        android:textColor="@color/white"
+        android:id="@+id/signup"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textSize="20dp"
+        android:text="Add items"
+        android:onClick="onClick"
+        android:background="@drawable/buttonstyle"
+        android:textColor="@color/white"
+        android:id="@+id/b3"
+        />
+
+</LinearLayout>

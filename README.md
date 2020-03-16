@@ -146,8 +146,14 @@ application = get_wsgi_application()
 - It will take you to next page 
 - In next page click on last Button it will make the connection gives the name of user 
 
-***Else If you want to see the code go to Lowes folder***
+***Else If you want to see the code go to TryingConn folder***
 
+- Android will able to retrive the information from the API .
+- While you press the Button , You will get the username from the server API .
+- And another Button MAP will get the Google map 
+- We are successfully connected to android app to the Internet and also made it use to GOOGLE maps API .
+- For the APP video we can't able to made .
+- You can use the APK in APP Folder of github or zip folder .
 
 
 

@@ -157,7 +157,6 @@ application = get_wsgi_application()
 
 
 
-
 ## Till now working flow is there 
  ` App part is under processing It is under processing `
 

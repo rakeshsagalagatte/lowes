@@ -1,0 +1,2 @@
+rootProject.name='TryingConn'
+include ':app'
